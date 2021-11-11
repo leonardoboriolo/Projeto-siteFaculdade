@@ -1,0 +1,1144 @@
+body {
+    margin-top: 0;
+    width: 1280px;
+    height: 820px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.text {
+    font-family: Rye, "Syne Mono";
+
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #9a5237;
+    text-align: center;
+    top: 100px;
+    width: 1249px;
+    line-height: 30px;
+    background: 0;
+    filter: brightness(80%);
+    filter: saturate(110%);
+}
+
+.H1 {
+    margin-top: -20px;
+}
+
+#segundaparte {
+    width: 101%;
+    height: 700px;
+    background-image: url("imagens/fundo.jpg");
+    background-repeat: repeat;
+    background-position: center ;
+    background-attachment: scroll;
+    background-size: auto;
+    border-top-width: 1px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    background-color: #f2f2f2;
+}
+
+#servico {
+    width: 193.61px;
+    height: 445.42px;
+}
+
+
+#servicocorte {
+    width: 78%;
+    height: 48%;
+    margin-top: -58px;
+    margin-left: 112px;
+    border-style: solid;
+    border-color: #9a5237;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+#servicocamuflagem {
+    width: 78%;
+    height: 48%;
+    border-style: solid;
+    border-color: #9a5237;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+    margin-top: -143%;
+    margin-left: 394px;
+}
+
+#servicobarbeamento {
+    width: 78%;
+    height: 48%;
+    border-style: solid;
+    border-color: #9a5237;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+    margin-top: -143%;
+    margin-left: 351%;
+}
+
+#servicoaparacao {
+    width: 78%;
+    height: 48%;
+    border-style: solid;
+    border-color: #9a5237;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+    margin-top: -143%;
+    margin-left: 498%;
+}
+
+
+#imagemtesoura {
+    margin-left: 29%;
+}
+#imagemcamuflagem{
+    margin-left: 29%;
+}
+
+#imagembrush{
+    margin-left: 30%;
+}
+
+#imagemaparacao{
+    margin-left: 30%;
+}
+
+
+
+#textocorte {
+    width: 93.65px;
+    height: 24.44px;
+    margin-top: -10px;
+    margin-left: -3.5px;
+}
+#textocamuflagem{
+    width: 93.65px;
+    height: 24.44px;
+    margin-top: -10px;
+    margin-left: -3.5px;
+}
+
+#textobarbeamento{
+    width: 93.65px;
+    height: 24.44px;
+    margin-top: -10px;
+    margin-left: -3.5px;
+}
+
+
+#textoaparacao{
+    width: 93.65px;
+    height: 24.44px;
+    margin-top: -10px;
+    margin-left: -3.5px;
+}
+
+
+
+#separador {
+    width: 93.65px;
+    height: 42px;
+}
+#separador2 {
+    width: 62.65px;
+    height: 36px;
+}
+
+#separador3 {
+    width: 62.65px;
+    height: 36px;
+}
+
+#separador4 {
+    width: 62.65px;
+    height: 36px;
+}
+
+
+
+#textodivcorte {
+    width: 164.930px;
+    height: 77.984px;
+    margin-top: -31px;
+    margin-left: -39px;
+}
+#textodivcamuflagem {
+    width: 164.930px;
+    height: 77.984px;
+    margin-top: -31px;
+    margin-left: -39px;
+}
+
+
+#textodivbarbeamento {
+    width: 164.930px;
+    height: 77.984px;
+    margin-top: -31px;
+    margin-left: -49px;
+}
+
+#textodivaparacao {
+    width: 164.930px;
+    height: 77.984px;
+    margin-top: -31px;
+    margin-left: -49px;
+}
+
+
+#conheca {
+    padding: 112px;
+}
+
+.h3conheca {
+    margin-top: -21px;
+}
+.h3precos{
+    color: white;
+}
+.h5precos{
+    color: white;
+    font-size: 31px;
+    margin-top: 37px;
+}
+
+.h5camuflagem{
+    margin-left: -43%;
+}
+
+.h5barbeamento{
+    margin-left: -50%;
+}
+
+/*
+.h5aparacao{
+  margin-left: -50%;
+}
+*/
+
+#segundapage {
+    text-align: center;
+    padding: 0px;
+    margin-top: 2px;
+    margin: 90px;
+   
+}
+
+#bem_vindo {
+    width: 370.12px;
+    height: 403.21px;
+    padding: 15px;
+    margin-left: 10px;
+}
+
+#fotobemvindo {
+    margin-top: -412px;
+    margin-left: 400px;
+}
+
+#endereco {
+    position: absolute;
+    padding: 4px;
+    color: white;
+    font-size: 26px;
+    margin-top: -87px;
+    padding: 2px;
+    margin-left: 64px;
+    opacity: 110%;
+}
+
+#contato {
+    position: absolute;
+    padding: 4px;
+    color: white;
+    font-size: 26px;
+    margin-top: -87px;
+    padding: 2px;
+    margin-left: 482px;
+    opacity: 110%;
+}
+
+#horario {
+    position: absolute;
+    padding: 4px;
+    color: #ffffff;
+    font-size: 26px;
+    margin-top: -87px;
+    padding: 2px;
+    margin-left: 921px;
+    opacity: 110%;
+    filter: ;
+}
+
+
+.linha-vertical {
+    height: 100px; /*Altura da linha*/
+    border-left: 2px solid; /* Adiciona borda esquerda na div como ser fosse uma linha.*/
+    margin-top: 495px;
+    margin-left: 370px;
+    color: white;
+
+}
+
+.linha-vertical2 {
+    height: 100px;
+    border-left: 2px solid;
+    margin-right: 0;
+    margin-top: -100px;
+    margin-left: 889px;
+    color: white;
+}
+.linha-vertical3{
+    height: 100px;
+    border-left: 2px solid;
+    margin-right: 0;
+    margin-top: 40px;
+    margin-left: 669px;
+    color: #9a5237;
+}
+
+
+.linha3 {
+    margin-top: 0px;
+    margin-left: 0px;
+    border-top: 2px solid #777777;
+
+}
+
+.linha4 {
+    margin-top: 0px;
+    margin-left: 0px;
+    border-top: 2px solid #777777;
+    display: inline-block;
+}
+
+.linha5 {
+
+    margin-left: 13px;
+    border-top: 2px solid #777777;
+    display: inline-block;
+}
+.linha6{
+    margin-left: 13px;
+    border-top: 2px solid #777777;
+
+}
+.linha7{
+    margin-left: 13px;
+    border-top: 2px solid #777777;
+}
+
+
+.linha8{
+    margin-left: 13px;
+    border-top: 2px solid #777777;
+}
+.linha9{
+    margin-left: 0px;
+    margin-top: -16px;
+    border-top: 2px solid #ffffff;
+    width: 116px;
+}
+.linha10{
+    margin-left: 0px;
+    border-top: 2px solid #777777;
+}
+.linha11{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-top: 2px solid #777777;
+    display: inline-block;
+}
+
+.hr {
+    margin-top: -110px;
+    opacity: 30%;
+}
+
+
+#imagem {
+    filter: brightness(61%);
+}
+
+#botaoreserva {
+    width: 311.719px;
+    height: 43.933px;
+    margin-top: -77px;
+}
+
+#botao {
+    margin-top: 12px;
+    margin-left: -65px;
+    border-radius: 6px;
+    color: white;
+    background-color: #9a5237;
+    border-color: #9a5237;
+    font-weight: 100;
+    width: 200px;
+    height: 40px;
+}
+#botaoreserva1{
+    width: 311.719px;
+    height: 43.933px;
+    margin-top: -77px;
+}
+#botao1{
+    margin-top: 136px;
+    margin-left: 544px;
+    border-radius: 6px;
+    color: white;
+    background-color: #9a5237;
+    border-color: #9a5237;
+    font-weight: 100;
+    width: 200px;
+    height: 40px;
+}
+#botao2{
+    margin-top: 7px;
+    margin-left: 544px;
+    border-radius: 6px;
+    color: white;
+    background-color: #9a5237;
+    border-color: #9a5237;
+    font-weight: 100;
+    width: 200px;
+    height: 40px;
+    position: absolute;
+
+}
+#botaoreserva2{
+    width: 311.719px;
+    height: 43.933px;
+    margin-top: -77px;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+h2 {
+    color: white;
+    font-weight: 100;
+}
+
+h3 {
+    color: #9a5237;
+    font-weight: 100;
+    line-height: 0px;
+    margin-top: 26px;
+
+}
+
+h4 {
+    font-family: inherit;
+    font-weight: 100;
+}
+
+h5 {
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0em;
+}
+/* PARTE DO PREÇO*/
+
+
+#preco{
+    background-color: rgba(37,32,29,0.85);
+    background-image: url("imagens/hair-bj-1.jpg");
+    width: 1280px;
+    height: 900px;
+    filter: brightness(0.30);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    border-top-width: 1px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+
+}
+#nossosprecos{
+    position: absolute;
+    margin-top: -774px;
+    padding: 100px;
+
+}
+
+#precocorte{
+    width: 246px;
+    height: 144px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #ffffff1c;
+    position: absolute;
+    margin-top: -528px;
+    margin-left: 113px;
+}
+
+#precobarbeamento{
+    width: 246px;
+    height: 144px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #ffffff1c;
+    position: absolute;
+    margin-top: -528px;
+    margin-left: 495px;
+}
+
+#precocabelobarba{
+    width: 246px;
+    height: 144px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #ffffff1c;
+    position: absolute;
+    margin-top: -528px;
+    margin-left: 875px;
+}
+
+#precocamuflagem{
+    width: 246px;
+    height: 144px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #ffffff1c;
+    position: absolute;
+    margin-top: -244px;
+    margin-left: 113px;
+}
+
+
+#precoaparacao{
+    width: 246px;
+    height: 144px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #ffffff1c;
+    position: absolute;
+    margin-top: -244px;
+    margin-left: 495px;
+}
+
+
+#precocortecamuflagem{
+    width: 246px;
+    height: 144px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #ffffff1c;
+    position: absolute;
+    margin-top: -244px;
+    margin-left: 875px;
+}
+
+
+    /*CSS PREÇO DO CORTE*/
+
+#hrprecocorte{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 24px;
+}
+#hrprecocorte2{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 18px;
+}
+.h2corte{
+    margin-top: -49px;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Rye';
+}
+.h2cortepreco{
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-top: 12px;
+}
+.h4corte{
+    color: white;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+/*DESFOQUE DA PAGINA DE PREÇOS*/
+
+#desfocar{
+    filter: contrast(0.79);
+}
+
+/*CSS PREÇO DO BARBEAMENTO*/
+
+#hrprecobarbeamento{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 24px;
+}
+#hrprecobarbeamento2{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 18px;
+}
+.h2barbeamento{
+    margin-top: -49px;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Rye';
+}
+.h2barbeamentopreco{
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-top: 12px;
+}
+.h4barbeamento{
+    color: white;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+/*CSS PREÇO DO CABELO+BARBA*/
+
+#hrprecocabelobarba{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 24px;
+}
+#hrprecocabelobarba2{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 18px;
+}
+.h2cabelobarba{
+    margin-top: -49px;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Rye';
+}
+.h2cabelobarbapreco{
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-top: 12px;
+}
+.h4cabelobarba{
+    color: white;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+/*CSS PREÇO DO CAMUFLAGEM*/
+
+
+    #hrprecocamuflagem{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 24px;
+}
+#hrprecocamuflagem2{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 18px;
+}
+.h2camuflagem{
+    margin-top: -49px;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Rye';
+}
+.h2camuflagempreco{
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-top: 12px;
+}
+.h4camuflagem{
+    color: white;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+/*CSS PREÇO DA APARAÇÃO*/
+
+#hrprecoaparacao{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 24px;
+}
+#hrprecoaparacao2{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 18px;
+}
+.h2aparacao{
+    margin-top: -49px;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Rye';
+}
+.h2aparacaopreco{
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-top: 12px;
+}
+.h4aparacao{
+    color: white;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+/*CSS CORTE + CAMUFLAGEM*/
+
+#hrprecocortecamuflagem{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 24px;
+}
+#hrprecocortecamuflagem2{
+    width: 300px;
+    margin-left: -28px;
+    color: white;
+    border-bottom-color: white;
+    margin-top: 18px;
+}
+.h2cortecamuflagem{
+    margin-top: -49px;
+    text-align: left;
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-left: -17px;
+}
+.h2cortecamuflagempreco{
+    font-weight: 500;
+    font-family: 'Rye';
+    margin-top: 12px;
+}
+.h4cortecamuflagem{
+    color: white;
+    font-size: 16px;
+    margin-top: 45px;
+}
+
+#direcionar{
+    margin-top: -137px;
+}
+
+
+#salao {
+    text-align: center;
+    padding: 0px;
+    margin: 90px;
+
+}
+
+#conheca1 {
+    width: 370.12px;
+    height: 403.21px;
+    padding: 15px;
+    margin-left: 10px;
+}
+.paragrafsalao{
+    text-align: left;
+
+}
+#fotoszoom{
+    width: 775px;
+    height: 397px;
+    margin-top: -513px;
+    margin-left: 386px;
+}
+
+#foto1{
+    margin-left: -39px;
+    width: 190px;
+    height: 298px;
+}
+#pencil{
+    height: 400px;
+}
+#foto2{
+    height: 294px;
+    margin-top: -314px;
+    margin-left: 228px;
+}
+.cadeira{
+    width: 256px;
+}
+#foto3{
+    height: 310px;
+    margin-top: -34px;
+    margin-left: 227px;
+}
+.toalha{
+    height: 124px;
+}
+#foto4{
+    width: 300px;
+    height: 300px;
+    margin-top: -603px;
+    margin-left: 494px;
+}
+.cadeira2{
+    height: 221px;
+}
+#foto5{
+    width: 300px;
+    height: 300px;
+    margin-top: -86px;
+    margin-left: 494px;
+}
+.barbearia{
+    height: 171px;
+}
+#nossaequipe{
+    width: 101%;
+    height: 700px;
+    background-image: url(imagens/fundo.jpg);
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: auto;
+    border-top-width: 1px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    background-color: #f2f2f2;
+    margin-top: 135px;
+}
+
+#funcionario{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-top: 231px;
+    margin-left: 86px;
+}
+#funcionario2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-top: 231px;
+    margin-left: 485px;
+}
+
+#funcionario3{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-top: 231px;
+    margin-left: 886px;
+}
+
+
+#textonossaequipe{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    padding: 64px;
+    margin-top: 11px;
+    margin-left: 28px;
+}
+.imagemfuncionario{
+    width: 325px;
+}
+.imagemfuncionario2{
+    width: 325px;
+}
+.imagemfuncionario3{
+    width: 325px;
+}
+#quadrado{
+    width: 267px;
+    height: 47%;
+    border-style: solid;
+    border-color: #9a523700;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+    margin-top: -35%;
+}
+#quadrado2{
+    width: 267px;
+    height: 47%;
+    border-style: solid;
+    border-color: #9a523700;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+    margin-top: -391px;
+}
+
+#quadrado3{
+    width: 267px;
+    height: 47%;
+    border-style: solid;
+    border-color: #9a523700;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+    margin-top: -391px;
+}
+
+.h4funcionario{
+    margin-top: 236px;
+    text-align: center;
+    font-size: 20px;
+    color: #000000a3;
+    font-weight: 600;
+}
+.h4funcionario2{
+    margin-top: 236px;
+    text-align: center;
+    font-size: 20px;
+    color: #000000a3;
+    font-weight: 600;
+}
+
+
+.h4funcionario3{
+    margin-top: 236px;
+    text-align: center;
+    font-size: 20px;
+    color: #000000a3;
+    font-weight: 600;
+}
+
+#logoinsta{
+    width: 41px;
+    height: 41px;
+}
+#logoinsta2{
+    width: 41px;
+    height: 41px;
+}
+
+#logoinsta3{
+    width: 41px;
+    height: 41px;
+}
+
+#linkedinfuncionario{
+    width: 41px;
+    position: absolute;
+    margin-left: 84px;
+    margin-top: -60px;
+}
+#linkedinfuncionario2{
+    width: 41px;
+    position: absolute;
+    margin-left: 84px;
+    margin-top: -60px;
+}
+
+#linkedinfuncionario3{
+    width: 41px;
+    position: absolute;
+    margin-left: 84px;
+    margin-top: -60px;
+}
+
+#twitterfuncionario{
+    width: 38px;
+    margin-left: 160px;
+    margin-top: -60px;
+    position: absolute;
+}
+
+#twitterfuncionario2{
+    width: 38px;
+    margin-left: 160px;
+    margin-top: -60px;
+    position: absolute;
+}
+
+#twitterfuncionario3{
+    width: 38px;
+    margin-left: 160px;
+    margin-top: -60px;
+    position: absolute;
+}
+#paginafinal{
+    
+
+}
+.logofinalbarbearia{
+    margin-top: 143px;
+    margin-left: 604px;
+}
+.textologofinalbarb{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0em;
+    margin-left: 544px;
+}
+.textologofinalbarb2{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0em;
+    margin-left: 622px;
+}
+.formh3{
+    font-size: 22px;
+    margin-top: -95px;
+    margin-left: 111px;
+}
+.formh4 {
+    font-size: 22px;
+    margin-top: -18px;
+    margin-left: 843px;
+}
+.formh5{
+    margin-top: 52px;
+    margin-left: 864px;
+    font-size: 30px;
+}
+.formularioicone2{
+    position: absolute;
+    margin-left: 303px;
+    margin-top: 10px;
+
+}
+#rodape{
+    background-color: #414042;
+    width: 101%;
+    height: 8%;
+    margin-top: 91px;
+}
+.desenvolvido{
+    font-family: auto;
+    position: absolute;
+    color: #ffffffc9;
+    margin-left: 511px;
+    font-size: inherit;
+    font-weight: lighter;
+}
+#por{
+    position: absolute;
+    margin-left: 632px;
+}
+.por{
+    font-size: inherit;
+    font-weight: lighter;
+    font-family: auto;
+    color: #9a5237;
+}
+#desenvolvidopor{
+    margin-left: 45px;
+}
+
